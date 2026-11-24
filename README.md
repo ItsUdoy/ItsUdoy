@@ -21,7 +21,7 @@
 <sub>$ cat about.txt</sub>
 
 <samp>Computer Science &amp; Engineering undergraduate at Bangladesh University of Professionals (BUP), Dhaka.<br>
-I build autonomous robots, Java systems &amp; games, and clean algorithmic solutions.<br>
+I build robust software systems, interactive games, and clean algorithmic solutions.<br>
 C · C++ · Java · Python · TypeScript</samp>
 
 <br>
