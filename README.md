@@ -51,6 +51,6 @@ C · C++ · Java · Python · TypeScript</samp>
 <br>
 <br>
 
-<sub><code>$ exit</code>&nbsp;&nbsp;—&nbsp;&nbsp;Connection to ItsUdoy@github closed. Say hi: <a href="mailto:joyhossain992@gmail.com">joyhossain992@gmail.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/joy-hossain-305445381/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.facebook.com/joy.uday2017">Facebook</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://wa.me/8801917357024"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="13" height="13" align="center" /> ItsYourUdoy</a></sub>
+<sub><code>$ exit</code>&nbsp;&nbsp;—&nbsp;&nbsp;Connection to ItsUdoy@github closed. Say hi: <a href="mailto:joyhossain992@gmail.com">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/joy-hossain-305445381/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.facebook.com/joy.uday2017">Facebook</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.youtube.com/@shygod9194/featured">YouTube</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://wa.me/8801917357024">WhatsApp</a></sub>
 
 </div>
