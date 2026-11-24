@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "repos": {
+    "ItsUdoy/PacMan-Game-3.5": {
+      "head_oid": "main",
+      "commits": 9,
+      "additions": 30780,
+      "deletions": 50
+    },
+    "ItsUdoy/Pharmacy-Project": {
+      "head_oid": "main",
+      "commits": 8,
+      "additions": 3120,
+      "deletions": 85
+    },
+    "ItsUdoy/Mess-E-Billing-System": {
+      "head_oid": "main",
+      "commits": 6,
+      "additions": 2450,
+      "deletions": 120
+    },
+    "ItsUdoy/Line-Following-Robot": {
+      "head_oid": "main",
+      "commits": 5,
+      "additions": 1850,
+      "deletions": 30
+    },
+    "ItsUdoy/Numerical-Analysis-Project": {
+      "head_oid": "main",
+      "commits": 6,
+      "additions": 21431,
+      "deletions": 6267
+    },
+    "ItsUdoy/ItsUdoy": {
+      "head_oid": "main",
+      "commits": 5,
+      "additions": 1420,
+      "deletions": 45
+    }
+  }
+}
