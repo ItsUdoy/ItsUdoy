@@ -2432,6 +2432,12 @@
         {
           "date": "2026-11-26",
           "weekday": 4,
+          "contributionCount": 1,
+          "contributionLevel": "FIRST_QUARTILE"
+        },
+        {
+          "date": "2026-11-27",
+          "weekday": 5,
           "contributionCount": 0,
           "contributionLevel": "NONE"
         }
